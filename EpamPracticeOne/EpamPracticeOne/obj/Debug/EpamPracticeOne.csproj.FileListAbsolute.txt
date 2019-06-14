@@ -1,0 +1,10 @@
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\bin\Debug\EpamPracticeOne.exe.config
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\bin\Debug\EpamPracticeOne.exe
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\bin\Debug\EpamPracticeOne.pdb
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\obj\Debug\EpamPracticeOne.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\obj\Debug\EpamPracticeOne.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\obj\Debug\EpamPracticeOne.exe
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\obj\Debug\EpamPracticeOne.pdb
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\bin\Debug\MatrixAndPolynomial.dll
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\bin\Debug\MatrixAndPolynomial.pdb
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\EpamPracticeOne\obj\Debug\EpamPracticeOne.csproj.CopyComplete

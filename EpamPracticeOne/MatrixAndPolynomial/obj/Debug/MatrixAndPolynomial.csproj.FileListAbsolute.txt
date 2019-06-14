@@ -1,0 +1,6 @@
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\MatrixAndPolynomial\bin\Debug\MatrixAndPolynomial.dll
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\MatrixAndPolynomial\bin\Debug\MatrixAndPolynomial.pdb
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\MatrixAndPolynomial\obj\Debug\MatrixAndPolynomial.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\MatrixAndPolynomial\obj\Debug\MatrixAndPolynomial.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\MatrixAndPolynomial\obj\Debug\MatrixAndPolynomial.dll
+C:\Users\Alexandr\Desktop\Epam\EpamPracticeOne\MatrixAndPolynomial\obj\Debug\MatrixAndPolynomial.pdb
