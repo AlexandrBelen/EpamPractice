@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpamPracticeTwo", "EpamPracticeTwo\EpamPracticeTwo.csproj", "{AE9F8045-BE6B-4E4C-9AAD-88A9162DB5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{8E5031F8-6504-4D97-BEDB-A703C3E5D395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9F8045-BE6B-4E4C-9AAD-88A9162DB5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9F8045-BE6B-4E4C-9AAD-88A9162DB5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9F8045-BE6B-4E4C-9AAD-88A9162DB5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9F8045-BE6B-4E4C-9AAD-88A9162DB5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5031F8-6504-4D97-BEDB-A703C3E5D395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5031F8-6504-4D97-BEDB-A703C3E5D395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5031F8-6504-4D97-BEDB-A703C3E5D395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5031F8-6504-4D97-BEDB-A703C3E5D395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80AAEE6C-8D3E-4C08-B572-354DD1A2BB95}
+	EndGlobalSection
+EndGlobal
